@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Prashant Adhikari 👯
 
-- 🔭 I’m currently working at ...<a href="https://www.nineleaps.com/">Nineleaps</a>
+- 🔭 I’m currently working at ...<a href="https://groww.in/">Groww</a>
 - 🌱 I’m currently learning ...Javascript and ReactJS
 - 👯 I’m looking to collaborate on ...Any interesting tech talks
 - 🤔 I’m looking for help with ...StackOverFlow to the Rescue 😄
