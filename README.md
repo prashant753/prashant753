@@ -1,9 +1,15 @@
-### Hi there 👋, I am Prashant Adhikari 👯
+👋 Hi there, I’m Prashant Adhikari
 
-- 🔭 I’m currently working at ...<a href="https://groww.in/">Groww</a> as Senior App Developer
-- 🌱 I’m currently learning ...Everything React (Mobile first)
-- 👯 I’m looking to collaborate on ...Any interesting tech talks
-- 🤔 I’m looking for help with ...StackOverFlow to the Rescue 😄
-- 💬 Ask me about ...Mobile App, React Native, Platformisation.
-- 📫 How to reach me: ...prashantadhikari753@gmail.com 😄
-- ⚡ Fun fact: ...Work hard and travel.
+Senior App / Platform Engineer focused on building high-scale mobile systems, React Native platforms, and developer-first tooling.
+
+🔭 Currently: Senior App Developer at Groww
+
+🧠 Expertise: React Native, Mobile Platform Engineering, App Performance, Observability
+
+🌱 Learning: Deep dives into React ecosystem, New Architecture, and scalable mobile infra
+
+🤝 Open to: Tech talks, architecture discussions, and platform-level collaborations
+
+💬 Ask me about: React Native, mobile performance, platformisation, CI/CD, release engineering
+
+📫 Reach me at: prashantadhikari753@gmail.com
